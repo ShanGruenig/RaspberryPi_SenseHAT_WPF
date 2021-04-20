@@ -1,0 +1,22 @@
+{
+    "name": "database.json",
+    "structs": {
+        "time": "timestruct : %d-%m-%Y %H:%M:%S",
+        "temperature": "double",
+        "humidity": "double",
+        "pressure": "double"
+    },
+    "config.json": {
+        "time": "60",
+        "interval": "60"
+    },
+    "temperature": [
+        
+    ],
+    "humidity": [
+        
+    ],
+    "pressure": [
+        
+    ]
+}
